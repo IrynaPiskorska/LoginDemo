@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  AIMeng
+
+  Created by Iryna Piskorska on 24.08.2022.
+  
+*/
+
+"key" = "value";
+"login_btn" = "Log In";
+"login_lbl" = "Log In";
+"login_txtfield_email" = "Please enter your email";
+"login_txtfield_password" = "Enter your password";
+"login_lbl_divider" = "OR";
